@@ -1,5 +1,3 @@
-# Project_Yonseirail
-
 # 연세 철도 주식회사
 
 ## 연세 철도 주식회사 DB 구축
